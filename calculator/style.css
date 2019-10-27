@@ -1,0 +1,24 @@
+#heading{
+    color : blue;
+    background-color: lightgray;
+    text-align: center;
+}
+
+button{
+    color:rgb(1, 13, 65);
+    background-color: rgb(33, 250, 33);
+    border: 1px solid black;
+}
+
+#cal{
+border : 2px double black;
+margin-left:30%;
+margin-right: 30%;
+padding : 5px;
+
+}
+#answer {
+    border : 1px solid black;
+    float:right;
+    padding :1px;
+}
